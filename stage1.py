@@ -3,9 +3,7 @@ def GetFeedback(secret, guess):
     bulls = sum([secret[i] == guess[i] for i in range(5)])
     reduced_secret = [secret[i] for i in range(5) if secret[i] != guess[i]]
     reduced_guess = [guess[i] for i in range(5) if secret[i] != guess[i]]
-    cows = 0
-    for color in set(reduced_secret):
-        cows += min(reduced_secret.count(color), reduced_guess.count(color))
+    cows = sum([color in reduced_guess for color in reduced_secret])
     return 'B' * bulls + 'C' * cows 
 
 
