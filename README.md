@@ -8,3 +8,5 @@ Video showing demo of implementation in action: https://youtu.be/t1FBZpiIBLc
 Descriptions of the implementation logic will be given in a series of posts on hashnode.com
 
 Stage 1: feedback function: determine number of bulls and cows for guess
+
+Stage 2: implemented full class "BullsAndCowsGame"
