@@ -10,3 +10,5 @@ Descriptions of the implementation logic will be given in a series of posts on h
 Stage 1: feedback function: determine number of bulls and cows for guess
 
 Stage 2: implemented full class "BullsAndCowsGame"
+
+Stage 3: add constants, colors and helper function "draw_text"
