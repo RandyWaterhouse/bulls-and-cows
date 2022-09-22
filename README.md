@@ -12,3 +12,5 @@ Stage 1: feedback function: determine number of bulls and cows for guess
 Stage 2: implemented full class "BullsAndCowsGame"
 
 Stage 3: add constants, colors and helper function "draw_text"
+
+Stage 4: add main program and pygame main loop
