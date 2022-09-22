@@ -13,6 +13,12 @@ Description: see https://cryptostuff.hashnode.dev/bulls-and-cows-in-python-stage
 
 Stage 2: implemented full class "BullsAndCowsGame"
 
+Description: see https://cryptostuff.hashnode.dev/bullsandcows-game-with-gui-in-python-stage-2
+
 Stage 3: add constants, colors and helper function "draw_text"
 
+Description: see https://cryptostuff.hashnode.dev/bullsandcows-game-with-gui-in-python-stage-3
+
 Stage 4: add main program and pygame main loop
+
+Description: see https://cryptostuff.hashnode.dev/bullsandcows-game-with-gui-in-python-stage-4
