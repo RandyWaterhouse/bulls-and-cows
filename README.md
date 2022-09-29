@@ -22,3 +22,7 @@ Description: see https://cryptostuff.hashnode.dev/bullsandcows-game-with-gui-in-
 Stage 4: add main program and pygame main loop
 
 Description: see https://cryptostuff.hashnode.dev/bullsandcows-game-with-gui-in-python-stage-4
+
+Stage 5: add buttons
+
+Description: see https://cryptostuff.hashnode.dev/bullsandcows-game-with-gui-in-python-stage-5
