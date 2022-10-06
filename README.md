@@ -28,3 +28,5 @@ Stage 5: add buttons
 Description: see https://cryptostuff.hashnode.dev/bullsandcows-game-with-gui-in-python-stage-5
 
 Stage 6: add Pin and PinColor classes (no logic yet behind submit, autoplay and restart buttons)
+
+Description: see https://cryptostuff.hashnode.dev/bullsandcows-game-with-gui-in-python-stage-6
