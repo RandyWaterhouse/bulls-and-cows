@@ -266,7 +266,7 @@ def mainloop(surface):
                         active_row += 1
                         selected_pin = pins[(active_row, 0)]
                         selected_pin.SelectPin()
-                        if active_row > 15:
+                        if active_row > 14:
                             msg = "Sorry, you lost, you had 15 tries to solve the game!"
                             active_row = 0
                 if button_autoplay.IsPressed((x, y)):
