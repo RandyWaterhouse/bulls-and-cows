@@ -33,4 +33,4 @@ Description: see https://cryptostuff.hashnode.dev/bullsandcows-game-with-gui-in-
 
 Stage 7: add logic for submit and restart buttons
 
-Description: see 
+Description: see https://cryptostuff.hashnode.dev/bullsandcows-game-with-gui-in-python-stage-7
